@@ -1,3 +1,7 @@
 # 파이썬
-python
+1. python
+
 java
+
+C
+
